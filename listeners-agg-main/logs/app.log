@@ -1,0 +1,191 @@
+{"level":"info","message":"Connected to Mongo!"}
+{"level":"info","message":"Connected to Joe Contract for listening events"}
+{"level":"info","message":"Connected to Avalanche network at 1/20/1970, 7:28:01 AM"}
+{"level":"info","message":"Kalao listeners set!"}
+{"level":"info","message":"NFTrade listeners set!"}
+{"level":"info","message":"All listeners set!"}
+{"level":"info","message":"[kalao-buy] - Subscription ID: 0x3525fb6ced7dc2031553f886fa674b29"}
+{"level":"info","message":"[kalao-add-marketplace] - Subscription ID: 0x10961a63e5fc451ed1d0ed8472ceb292"}
+{"level":"info","message":"[kalao-cancel] - Subscription ID: 0x673be17de9e34f01d4600d3b528fd413\n"}
+{"level":"info","message":"[nft-trade-cancel] - Subscription ID: 0xfe31a05402d86e397bf3d5d61a1501a0"}
+{"level":"info","message":"[kalao-add-marketplace] - 0xe9194f17655219ac364844b0c85e45868cf999f14c789d84c1edefbf3c293c00"}
+{"level":"info","message":"Unsubscribed successfully!"}
+{"level":"info","message":"Kalao listeners set!"}
+{"level":"info","message":"NFTrade listeners set!"}
+{"level":"info","message":"[nft-trade-cancel] - Subscription ID: 0x1c431b2a3d7b6b25f274f4f6c6a1921c"}
+{"level":"info","message":"[kalao-buy] - Subscription ID: 0xd5b6352220bbbf7c2f9250b138e017ee"}
+{"level":"info","message":"[kalao-add-marketplace] - Subscription ID: 0x113cf63e68c442a818104ac51092f38"}
+{"level":"info","message":"[kalao-cancel] - Subscription ID: 0xe1425c7319fe4869fcdd20f6c83c9c69\n"}
+{"level":"info","message":"Unsubscribed successfully!"}
+{"level":"info","message":"Kalao listeners set!"}
+{"level":"info","message":"NFTrade listeners set!"}
+{"level":"info","message":"[kalao-buy] - Subscription ID: 0x59164ac4204810d421b5cf6985de77e3"}
+{"level":"info","message":"[kalao-add-marketplace] - Subscription ID: 0xab3fa1bddfc10bf4cafc7d9b27fff8d5"}
+{"level":"info","message":"[kalao-cancel] - Subscription ID: 0x7611ccf966ad60d7f04d750b1a781693\n"}
+{"level":"info","message":"[nft-trade-cancel] - Subscription ID: 0x54c746720bb49ec508924c1f6fa48e1e"}
+{"level":"info","message":"[kalao-add-marketplace] - 0x8b9281c679d28b4bca864da2f68dcabbc82c5d2105111184aa7834c9f3404b02"}
+{"level":"info","message":"[kalao-add-marketplace] - 0xc9912f9a01adcfe415b82549965c101bc30379b5f212f0dcc23cc70c8f2d73ab"}
+{"level":"info","message":"[kalao-add-marketplace] - 0xc63c4902af219e2c1c3ae2b25715fbf1bf72249523c63122a872950704430c6f"}
+{"level":"info","message":"Unsubscribed successfully!"}
+{"level":"info","message":"Kalao listeners set!"}
+{"level":"info","message":"NFTrade listeners set!"}
+{"level":"info","message":"[kalao-buy] - Subscription ID: 0x25359a36e01d2e31373b2d48bcb4fea4"}
+{"level":"info","message":"[kalao-add-marketplace] - Subscription ID: 0x4c14f06847ac5209663eedafabf2e7bf"}
+{"level":"info","message":"[kalao-cancel] - Subscription ID: 0xf5e2d9f1d738e9e5a512cc7b5c7025e1\n"}
+{"level":"info","message":"[nft-trade-cancel] - Subscription ID: 0x581cc25b9989b3eb03379d88d98b4bfb"}
+{"level":"info","message":"Unsubscribed successfully!"}
+{"level":"info","message":"Kalao listeners set!"}
+{"level":"info","message":"NFTrade listeners set!"}
+{"level":"info","message":"[kalao-buy] - Subscription ID: 0x4d5118306dddb903f72bd4c82f7cc3fe"}
+{"level":"info","message":"[kalao-add-marketplace] - Subscription ID: 0xafbd0f4817bbaab133d977e487eb0205"}
+{"level":"info","message":"[kalao-cancel] - Subscription ID: 0x8aa55733bfc898a0e46b8eab15bb880f\n"}
+{"level":"info","message":"[nft-trade-cancel] - Subscription ID: 0x2c4c41f192326434efb735d5181448ae"}
+{"level":"info","message":"[kalao-add-marketplace] - 0xd4c36b7d66078ccc17e69f88869e27b0c462d6022546652c168cad65d5264b09"}
+{"level":"info","message":"[kalao-cancel] - 0xac6737ca50416ae18cf4a363a001adfe2b91684d7a5edc6c89bc418b5237b500"}
+{"level":"error","message":"Error on [kalao-cancel] - 0xac6737ca50416ae18cf4a363a001adfe2b91684d7a5edc6c89bc418b5237b500 - Error: Update prices failed"}
+{"level":"info","message":"[kalao-buy] - 0x5e98336a3880f0f2fef315e7fc61def9877fc1cef842ac462b131cf8a4ff1980"}
+{"level":"error","message":"Error on [kalao-buy] - 0x5e98336a3880f0f2fef315e7fc61def9877fc1cef842ac462b131cf8a4ff1980 - Error: Update prices failed"}
+{"level":"info","message":"Unsubscribed successfully!"}
+{"level":"info","message":"Kalao listeners set!"}
+{"level":"info","message":"NFTrade listeners set!"}
+{"level":"info","message":"[kalao-cancel] - Subscription ID: 0x47b1bcc9ca07f760fc20b32db2df9f6d\n"}
+{"level":"info","message":"[kalao-buy] - Subscription ID: 0x347ca3e12ec26119bbe6329d4b409800"}
+{"level":"info","message":"[kalao-add-marketplace] - Subscription ID: 0x670c28e8e02e6ba8b1db05544baed0b"}
+{"level":"info","message":"[nft-trade-cancel] - Subscription ID: 0xacd60eca4a84361dd5478ff702155a73"}
+{"level":"info","message":"[kalao-add-marketplace] - 0x81a8f538ac2ec91893749efd8372ad542e3896a5887d902e3e943e99ccf7655f"}
+{"level":"info","message":"[kalao-add-marketplace] - 0x8810f70ac88814fec26c3174b0f6641244589081997e93eee140a5059a33dfb7"}
+{"level":"info","message":"[kalao-add-marketplace] - 0x6db5d4b8c614620c6ce2b69d57edc0fb2d84c74ed6cfeebb2cb52c3c272ce91f"}
+{"level":"info","message":"Unsubscribed successfully!"}
+{"level":"info","message":"Kalao listeners set!"}
+{"level":"info","message":"NFTrade listeners set!"}
+{"level":"info","message":"[kalao-buy] - Subscription ID: 0xc4d68aab7f0f6298184217630059b434"}
+{"level":"info","message":"[kalao-add-marketplace] - Subscription ID: 0xf4420049f2811f1670a4bd2e98c357d5"}
+{"level":"info","message":"[kalao-cancel] - Subscription ID: 0x6144f1df69c2b33185e2a74d26856909\n"}
+{"level":"info","message":"[nft-trade-cancel] - Subscription ID: 0xc79c04d1e43c61212e6cc717d79ed77d"}
+{"level":"info","message":"[kalao-add-marketplace] - 0x9cc8ebe438021944cc4011d7de9eeb3d1d356cd05dace1173c8c67a2e5204f72"}
+{"level":"info","message":"Unsubscribed successfully!"}
+{"level":"info","message":"Kalao listeners set!"}
+{"level":"info","message":"NFTrade listeners set!"}
+{"level":"info","message":"[kalao-buy] - Subscription ID: 0x5f62f3c84604e317480b19f47765ec08"}
+{"level":"info","message":"[kalao-add-marketplace] - Subscription ID: 0xc559ce15cac1864436de8d31bc87d832"}
+{"level":"info","message":"[kalao-cancel] - Subscription ID: 0x6558c20f3d3e6008889560c10069f7f0\n"}
+{"level":"info","message":"[nft-trade-cancel] - Subscription ID: 0xe02af9e72d5cc0e70dc31b96c29dc24a"}
+{"level":"info","message":"[kalao-add-marketplace] - 0x2547e98b5a466dd009587754e6892678d8601095b20cb03abf45816a84ebd3c3"}
+{"level":"info","message":"[kalao-add-marketplace] - 0xdec4be5a4bc2f90e30361cb27963fae01a41803b9d7dfb794497432c83081639"}
+{"level":"info","message":"Unsubscribed successfully!"}
+{"level":"info","message":"Kalao listeners set!"}
+{"level":"info","message":"NFTrade listeners set!"}
+{"level":"info","message":"[kalao-buy] - Subscription ID: 0x18477248b76016a2a872aebe9f037e51"}
+{"level":"info","message":"[kalao-add-marketplace] - Subscription ID: 0xa1cd3e11899176cab54e1dd2ac580d4a"}
+{"level":"info","message":"[kalao-cancel] - Subscription ID: 0x9ab6ea31f7b66365ad9b8d8ab388e72c\n"}
+{"level":"info","message":"[nft-trade-cancel] - Subscription ID: 0x6c2283f96d1ec2f2ef399c3856b688bd"}
+{"level":"info","message":"[kalao-add-marketplace] - 0xacae9be8ed89151f1ae11a059b581849276e6d38271b27083808e5a2b4668da8"}
+{"level":"info","message":"Unsubscribed successfully!"}
+{"level":"info","message":"Kalao listeners set!"}
+{"level":"info","message":"NFTrade listeners set!"}
+{"level":"info","message":"[kalao-buy] - Subscription ID: 0xff7ed0f77f328034e6496d37052964aa"}
+{"level":"info","message":"[kalao-add-marketplace] - Subscription ID: 0x1401af7efce30af2d616d7021f373cb9"}
+{"level":"info","message":"[kalao-cancel] - Subscription ID: 0xfe6b9406872e3f79e5458940308a80f6\n"}
+{"level":"info","message":"[nft-trade-cancel] - Subscription ID: 0x1876f74f81f0686e7190e04e2cab4591"}
+{"level":"info","message":"[kalao-add-marketplace] - 0xb2d571f0e3e3cf1088ab92f6dbcd046f1c48b636a11484b691fa34d6d1287b88"}
+{"level":"info","message":"[kalao-add-marketplace] - 0x2e8a1d08c33f1c7d21fbd14d6ef6ce2a4c498a5fd243df1f41d4e0afbbcb44a8"}
+{"level":"info","message":"[kalao-cancel] - 0xfcbcaa6e33e134f8c0ffd1b3215dac67b3361383e3e6a1b82d9a59d93c32e3b7"}
+{"level":"error","message":"Error on [kalao-cancel] - 0xfcbcaa6e33e134f8c0ffd1b3215dac67b3361383e3e6a1b82d9a59d93c32e3b7 - Error: Update prices failed"}
+{"level":"info","message":"Unsubscribed successfully!"}
+{"level":"info","message":"Kalao listeners set!"}
+{"level":"info","message":"NFTrade listeners set!"}
+{"level":"info","message":"[kalao-buy] - Subscription ID: 0xaa35faf6ec27e3043aebfd52bd929aca"}
+{"level":"info","message":"[kalao-cancel] - Subscription ID: 0x5b7b908ec3ede5e4be38411d31957b9c\n"}
+{"level":"info","message":"[kalao-add-marketplace] - Subscription ID: 0x7f777bb7ca0375282c76de89cfe2f8cd"}
+{"level":"info","message":"[nft-trade-cancel] - Subscription ID: 0x6b0cc386d4114bb5013da957ecf6f87a"}
+{"level":"info","message":"[nft-trade-cancel] - 0x2128b8f9342fd7d94a3c371d85afc4a774cdaa306d0b9987ea2c2eab7e4df064"}
+{"level":"info","message":"[nft-trade-cancel] - 0x2128b8f9342fd7d94a3c371d85afc4a774cdaa306d0b9987ea2c2eab7e4df064 - Success"}
+{"level":"info","message":"[nft-trade-cancel] - 0x9ce241a131bcd136c2fc9dd5907625e4ca9a63ccbbf0587149a1e5d6b60945f7"}
+{"level":"info","message":"[kalao-cancel] - 0xee4e05776f6db7203f9197bdd5afe6815c02e0a973bd7f1059a5c14b69a9d5f0"}
+{"level":"error"}
+{"level":"error","message":"[kalao-cancel] - 0xee4e05776f6db7203f9197bdd5afe6815c02e0a973bd7f1059a5c14b69a9d5f0 - Failed"}
+{"level":"info","message":"[nft-trade-cancel] - 0x9ce241a131bcd136c2fc9dd5907625e4ca9a63ccbbf0587149a1e5d6b60945f7 - Success"}
+{"level":"info","message":"[kalao-add-marketplace] - 0x16e025a20683f9190713a5298af873957d904acb2bfe3588192bd4cfdb5571bb"}
+{"level":"info","message":"[kalao-add-marketplace] - 0x4f52ea3b69772bb5c602017092eabc8f4c66897f64191e2ede5014de9bef48fa"}
+{"level":"info","message":"[kalao-add-marketplace] - 0xcccdc96a3ffd1c341edbf30b2735d12c6e057f359c8baf6a2db1a6855d74b4db"}
+{"level":"info","message":"[nft-trade-cancel] - 0xde384ebb21510d9e5a1c2d5fadcf0571aa50c0bd6696dd14b4f9eba78c77538a"}
+{"level":"info","message":"[nft-trade-cancel] - 0xde384ebb21510d9e5a1c2d5fadcf0571aa50c0bd6696dd14b4f9eba78c77538a - Success"}
+{"level":"info","message":"Unsubscribed successfully!"}
+{"level":"info","message":"Kalao listeners set!"}
+{"level":"info","message":"NFTrade listeners set!"}
+{"level":"info","message":"[kalao-buy] - Subscription ID: 0x783a59fddbf278d8e4c654303c26b1a0"}
+{"level":"info","message":"[kalao-cancel] - Subscription ID: 0x6ff28e3f3e4ebdf53a1f19aa8565578c\n"}
+{"level":"info","message":"[kalao-add-marketplace] - Subscription ID: 0x1be55fb407d84bfa961feefe24d42f09"}
+{"level":"info","message":"[nft-trade-cancel] - Subscription ID: 0x71cccccd28f6cb47dc23f701cbe1e7fb"}
+{"level":"info","message":"[kalao-cancel] - 0xd391a0970560c046bf4fab218d3b0d61ff67b9c07489440d0427a99bafc4ec90"}
+{"level":"error","message":"Error on [kalao-cancel] - 0xd391a0970560c046bf4fab218d3b0d61ff67b9c07489440d0427a99bafc4ec90 - Error: Update prices failed"}
+{"level":"info","message":"[nft-trade-cancel] - 0x7e29ca003dea7c4829efbb7582df51a81792f794c8780ef6ffa15ba86d9fcace"}
+{"level":"info","message":"[nft-trade-cancel] - 0x7e29ca003dea7c4829efbb7582df51a81792f794c8780ef6ffa15ba86d9fcace - Success"}
+{"level":"info","message":"[kalao-add-marketplace] - 0x08382903d1f428cf69551a57771a225b5126c63161f3000e2ecc2f86051d4832"}
+{"level":"info","message":"[kalao-add-marketplace] - 0x8b3871979c32129ba4a0fca827742284d40233155b2b624097c25c4504c81870"}
+{"level":"info","message":"[nft-trade-cancel] - 0x24c2f02a35b23a8ef50a3058507a388d78709466e015450cdca5cc078d57f185"}
+{"level":"info","message":"[nft-trade-cancel] - 0x24c2f02a35b23a8ef50a3058507a388d78709466e015450cdca5cc078d57f185 - Success"}
+{"level":"info","message":"Unsubscribed successfully!"}
+{"level":"info","message":"Kalao listeners set!"}
+{"level":"info","message":"NFTrade listeners set!"}
+{"level":"info","message":"[kalao-buy] - Subscription ID: 0xae0b2310fab0fd7efba7609ad2c7dbc1"}
+{"level":"info","message":"[nft-trade-cancel] - Subscription ID: 0xfd9c1c70ef35e36253b883adfb044a4a"}
+{"level":"info","message":"[kalao-cancel] - Subscription ID: 0x214d92514b7c8c45fff314cc031723eb\n"}
+{"level":"info","message":"[kalao-add-marketplace] - Subscription ID: 0xa78097ebaaa30411cf53a51134c29e09"}
+{"level":"info","message":"[kalao-add-marketplace] - 0x1c1c8d78ecadebc1e84a7a2b13308c7f188e21d127bbad29f4247ef3c20d76fd"}
+{"level":"info","message":"[nft-trade-cancel] - 0xe2fbfe1d22106a68725dcb7fddf741dfd4d710fb8b72af9501ffe2837e6cd737"}
+{"level":"error","message":"Error on [nft-trade-cancel] - 0xe2fbfe1d22106a68725dcb7fddf741dfd4d710fb8b72af9501ffe2837e6cd737 - Error: Failed to set all prices to null"}
+{"level":"info","message":"Unsubscribed successfully!"}
+{"level":"info","message":"Kalao listeners set!"}
+{"level":"info","message":"NFTrade listeners set!"}
+{"level":"info","message":"[kalao-buy] - Subscription ID: 0x60a63ec3854139618e97bf19a01a5d5d"}
+{"level":"info","message":"[nft-trade-cancel] - Subscription ID: 0xfe29eef01db8388b65e116dc0510d54d"}
+{"level":"info","message":"[kalao-cancel] - Subscription ID: 0x262b782fa2078683ce6a9cf4fc934ac3\n"}
+{"level":"info","message":"[kalao-add-marketplace] - Subscription ID: 0xebc3dde6655399f6ed2265c32fa3faf2"}
+{"level":"info","message":"Unsubscribed successfully!"}
+{"level":"info","message":"Kalao listeners set!"}
+{"level":"info","message":"NFTrade listeners set!"}
+{"level":"info","message":"[kalao-buy] - Subscription ID: 0x76282dd979f6803e7fc0648447ad4985"}
+{"level":"info","message":"[kalao-add-marketplace] - Subscription ID: 0x6b9f08d0d12623308df4aede46c2b0c6"}
+{"level":"info","message":"[nft-trade-cancel] - Subscription ID: 0x1dcaddfb4759016a5d6a87a2958964dc"}
+{"level":"info","message":"[kalao-cancel] - Subscription ID: 0x32b3899450de82e80c70f92a351d7204\n"}
+{"level":"info","message":"Unsubscribed successfully!"}
+{"level":"info","message":"Kalao listeners set!"}
+{"level":"info","message":"NFTrade listeners set!"}
+{"level":"info","message":"[kalao-buy] - Subscription ID: 0x689dce4c2ba8a3752de4d894cdb814c3"}
+{"level":"info","message":"[kalao-cancel] - Subscription ID: 0x808b4fd49982970a52ead516a6dc9716\n"}
+{"level":"info","message":"[kalao-add-marketplace] - Subscription ID: 0x26180e2d09a56adb019962898f8daa97"}
+{"level":"info","message":"[nft-trade-cancel] - Subscription ID: 0x5ce78994ae5e38098424b0c54eae9a60"}
+{"level":"info","message":"Unsubscribed successfully!"}
+{"level":"info","message":"Kalao listeners set!"}
+{"level":"info","message":"NFTrade listeners set!"}
+{"level":"info","message":"[kalao-buy] - Subscription ID: 0x64b101dd7a10bc672ecc89358f5f93c3"}
+{"level":"info","message":"[kalao-add-marketplace] - Subscription ID: 0xfc004cc6b772fd5eefcd3c9e99ad126"}
+{"level":"info","message":"[kalao-cancel] - Subscription ID: 0x32a8e5f78a4868784f3dd6026d405901\n"}
+{"level":"info","message":"[nft-trade-cancel] - Subscription ID: 0xac4ecc9bd07f5efeb1ac179237b7bf69"}
+{"level":"info","message":"[kalao-cancel] - 0x96733d26c64bd2567bf21232c506ccec2057ba993340598789e9029441a1f784"}
+{"level":"error","message":"Error on [kalao-cancel] - 0x96733d26c64bd2567bf21232c506ccec2057ba993340598789e9029441a1f784 - Error: Update prices failed"}
+{"level":"info","message":"Unsubscribed successfully!"}
+{"level":"info","message":"Kalao listeners set!"}
+{"level":"info","message":"NFTrade listeners set!"}
+{"level":"info","message":"[kalao-buy] - Subscription ID: 0x5a2fd294e6ddc007604ee9d64156c1af"}
+{"level":"info","message":"[kalao-add-marketplace] - Subscription ID: 0xa0e6c99cc559398b704f47ba3d8767e4"}
+{"level":"info","message":"[kalao-cancel] - Subscription ID: 0x589f1c238143a51fb4ce38fdb3ede1dd\n"}
+{"level":"info","message":"[nft-trade-cancel] - Subscription ID: 0x535bdf5fb27b5ecb21c61a89ac44b4b"}
+{"level":"info","message":"[kalao-add-marketplace] - 0x45c9caf4e26c0603e40e9de1e693087972414456ff14904a149c3e159d5d1dd4"}
+{"level":"info","message":"Unsubscribed successfully!"}
+{"level":"info","message":"Kalao listeners set!"}
+{"level":"info","message":"NFTrade listeners set!"}
+{"level":"info","message":"[kalao-buy] - Subscription ID: 0xb179afa201d0a69dd2f5708e93e136ee"}
+{"level":"info","message":"[kalao-cancel] - Subscription ID: 0xd0c9b26276983d34fa51b38df9bb2c69\n"}
+{"level":"info","message":"[kalao-add-marketplace] - Subscription ID: 0x94113e008d24d47dbe48603c80db7b6a"}
+{"level":"info","message":"[nft-trade-cancel] - Subscription ID: 0x49b647cd0edb677dbef0fb97f7bd10da"}
+{"level":"info","message":"Unsubscribed successfully!"}
+{"level":"info","message":"Kalao listeners set!"}
+{"level":"info","message":"NFTrade listeners set!"}
+{"level":"info","message":"[kalao-buy] - Subscription ID: 0x9682525399bbd48ea5fa56014cee6762"}
+{"level":"info","message":"[kalao-add-marketplace] - Subscription ID: 0xfef3e662c468704f4ad5b0db5d5b330"}
+{"level":"info","message":"[kalao-cancel] - Subscription ID: 0x1b3248b26d2935010e12f06d9bace448\n"}
+{"level":"info","message":"[nft-trade-cancel] - Subscription ID: 0x64e9cf7df29a5400ac2d05eface969b8"}
+{"level":"info","message":"[kalao-buy] - 0x4a4975afe91da2a6777f95a0c50bc43ef6815dc78094b186f3d1bc3bbe6ceb5b"}
+{"level":"error","message":"Error on [kalao-buy] - 0x4a4975afe91da2a6777f95a0c50bc43ef6815dc78094b186f3d1bc3bbe6ceb5b - Error: Update prices failed"}
