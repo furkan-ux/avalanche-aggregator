@@ -33,7 +33,7 @@ def info_contracts_kalao():
 def info_contracts_joepegs():
     for i in range(1, 100):
         joeURI = "https://api.joepegs.dev/v2/collections?pageSize=100&pageNum="+str(i)
-        headers = {"x-joepegs-api-key":"XrnqVcauKOtROXdzrFJbvHAYFnCx316sWnGE"}
+        headers = {"x-joepegs-api-key":"<YOUR API KEY HERE>"}
         joeREQ = requests.get(joeURI, headers=headers)
         if len(joeREQ.text) < 3 or joeREQ.status_code != 200:
             print("[INFO] Joepegs Contracts Finished.")
